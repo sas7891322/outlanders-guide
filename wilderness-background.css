@@ -1,0 +1,21 @@
+/* v2.7 | wilderness hero backdrop. Uses Unsplash photo with SVG fallback. */
+.hero {
+  background-image:
+    linear-gradient(90deg, rgba(5,15,17,.98) 0%, rgba(6,20,20,.93) 35%, rgba(8,28,26,.69) 67%, rgba(5,16,17,.41) 100%),
+    linear-gradient(0deg, rgba(11,16,19,.98) 0%, rgba(11,16,19,0) 30%),
+    url("https://images.unsplash.com/photo-1720942769423-758c7187106d?auto=format&fit=crop&w=2200&q=78"),
+    url("assets/landscape.svg");
+  background-repeat: no-repeat;
+  background-position: center, center, 66% 45%, center;
+  background-size: cover, cover, cover, cover;
+}
+@media (max-width:680px) {
+  .hero {
+    background-image:
+      linear-gradient(90deg, rgba(5,15,17,.96) 0%, rgba(9,26,25,.81) 70%, rgba(6,21,20,.65) 100%),
+      linear-gradient(0deg, rgba(11,16,19,.97) 0%, transparent 48%),
+      url("https://images.unsplash.com/photo-1720942769423-758c7187106d?auto=format&fit=crop&w=900&h=1200&q=75"),
+      url("assets/landscape.svg");
+    background-position: center, center, 51% 48%, center;
+  }
+}

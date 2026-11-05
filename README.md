@@ -11,3 +11,7 @@
 ## 品質檢查
 
 參見 QA-REPORT.md。尚未在使用者的 iPhone 上進行 Safari 真機測試，也沒有直接寫入 GitHub 或 Vercel。
+
+
+## v2.7 背景更新
+首頁 `.hero` 新增霧林背景、深色遮罩與手機裁切規則。詳見 `BACKGROUND-CREDITS.md`。保留 v2.6 的搜尋、圖鑑與工具。
