@@ -1,43 +1,11 @@
-# 旅人狩獵手冊 v1.0（可操作原型）
+# 旅人狩獵手冊 v2.0
 
-《魔物獵人：旅人》非官方繁體中文攻略網站前端原型。
+延續 v1.9 的完整功能和深色版型。本版加入「裝備製作 → 素材缺口 → 魔物／取得方式／星級」的反查流程。
 
-## 已完成
-- 手機優先的首頁與 8 大攻略分類
-- 攻略列表、分類篩選與即時搜尋
-- 10 篇示範性基礎指南，每篇提供資料驗證狀態
-- 冒險等級、生態等級與目標的進度建議
-- 每日／每週待辦清單與瀏覽器本地保存
-- 以 Asia/Taipei 日期／週次區分待辦完成紀錄
-- 無需註冊、無外部 API、無 build step
+- 裝備製作頁：`#crafting`，桌機導覽及「素材反查／裝備魔物」入口皆可進入。
+- 7 筆第三方參考武器製作／升級階段，並非全武器資料。沒有核實的配方、銀幣與掉落機率不猜測。
+- 可一次選取多項目，合計相同素材並輸入持有數量，資料保存在 `localStorage`，可匯出 JSON。
+- 注意：不同強化階段是否需要前一階段及相關費用，請以遊戲工坊實際顯示為準。
 
-## 重要限制
-這是可部署的 **v1.0 UI／功能原型**，**不是已完成全網核查的正式攻略資料庫**。卡池保底、活動期限、完整角色技能、所有魔物掉落等尚未建立或核實。攻略文章以保守的編輯建議呈現，絕不應當作遊戲官方數值。
-
-## 本機預覽
-在此目錄執行：
-
-```sh
-python -m http.server 8000
-```
-
-接著開啟 http://localhost:8000
-
-## 部署到 Vercel
-1. 將整個資料夾內容上傳新建的 GitHub repository（根目錄要有 `index.html`）。
-2. 於 Vercel 匯入此 repository。
-3. Framework Preset 選 `Other`，Build Command 留空，Output Directory 留空或使用 `.`。
-4. Deploy。網站不需 npm install。
-
-## 檔案
-- `index.html`：網站入口與 meta
-- `styles.css`：網站樣式
-- `app.js`：所有前端畫面、內容資料與互動
-- `assets/`：原創的 SVG 風景與站台圖示
-- `vercel.json`：基本安全 headers
-
-## 後續建議
-正式內容應改由獨立的 JSON 或 Markdown 儲存，增加官方來源 URL、實際查核日期、遊戲版本、地區、編輯狀態、差異紀錄。逐步做全角色、武器裝備、隨從、魔物和素材資料庫，最後才加入互動配裝與健檢。
-
-## 免責
-非官方粉絲作品，與 Capcom 或遊戲營運商無關；其商標歸各權利人所有。
+部署：將完整 ZIP 解壓後全部檔案上傳 GitHub 儲存庫根目錄；Vercel 若已串接 main，提交後會觸發部署。
+來源：GameWith (2026-10-30) https://gamewith.ai/monster-hunter-outlanders/zh-hant/articles/weapon-crafting-guide；Ludens (2026-10-29) https://www.ludens.com.tw/monster-hunter-outlanders-monster-materials/

@@ -1,0 +1,139 @@
+{
+  "version": "2.0.0",
+  "updated": "2026-11-05",
+  "source": "https://gamewith.ai/monster-hunter-outlanders/zh-hant/articles/weapon-crafting-guide",
+  "verification": "第三方正式版攻略的部分範例，尚未以台灣正式版工坊逐筆核驗；不包含銀幣數量。請以遊戲內資料為準。",
+  "recipes": [
+    {
+      "id": "bone-katana-3",
+      "name": "骨製彎刀Ⅰ",
+      "type": "太刀",
+      "stage": "製作",
+      "rarity": 3,
+      "materials": [
+        {
+          "name": "狩玉Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "龍骨〖小〗",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "bone-katana-4",
+      "name": "骨製彎刀Ⅰ",
+      "type": "太刀",
+      "stage": "強化至稀有度4",
+      "rarity": 4,
+      "materials": [
+        {
+          "name": "狩玉Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "龍骨〖小〗",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "flame-dual-3",
+      "name": "火焰戰斧Ⅰ",
+      "type": "雙劍",
+      "stage": "製作",
+      "rarity": 3,
+      "materials": [
+        {
+          "name": "狩玉Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "蠻顎龍的毛皮Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "蠻顎龍的牙Ⅰ",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "flame-dual-5",
+      "name": "火焰戰斧Ⅰ",
+      "type": "雙劍",
+      "stage": "強化至稀有度5",
+      "rarity": 5,
+      "materials": [
+        {
+          "name": "狩玉Ⅱ",
+          "qty": 1
+        },
+        {
+          "name": "蠻顎龍的毛皮Ⅰ",
+          "qty": 2
+        },
+        {
+          "name": "蠻顎龍的牙Ⅰ",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "jagras-axe-2",
+      "name": "凶顎龍兵裝Ⅰ",
+      "type": "充能斧",
+      "stage": "製作",
+      "rarity": 2,
+      "materials": [
+        {
+          "name": "狩玉Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "大凶顎龍的皮Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "大凶顎龍的牙Ⅰ",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "red-gs-1",
+      "name": "冒險團赤翎型大劍・火Ⅰ",
+      "type": "大劍",
+      "stage": "製作",
+      "rarity": 1,
+      "materials": [
+        {
+          "name": "狩玉Ⅰ",
+          "qty": 1
+        },
+        {
+          "name": "鐵礦石",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "red-gs-5",
+      "name": "冒險團赤翎型大劍・火Ⅱ",
+      "type": "大劍",
+      "stage": "強化至稀有度5",
+      "rarity": 5,
+      "materials": [
+        {
+          "name": "狩玉Ⅱ",
+          "qty": 1
+        },
+        {
+          "name": "鐵礦石",
+          "qty": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+/* v1.8 attribute audit */
+.attribute-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;margin:14px 0}
+.attribute-chip{display:flex;flex-direction:column;align-items:center;gap:5px;min-width:0;padding:8px 3px;border:1px solid #40514b;border-radius:9px;background:#152421;color:#9eb5a7;font-size:11px}
+.attribute-chip b{color:#91aaa0;letter-spacing:0;white-space:nowrap;font-size:12px}
+.attribute-chip.best{background:#382d1d;border-color:#ab8651;color:#f4d8a7}
+.attribute-chip.best b{color:#edbf70}
+.field-card .source-inline{color:#ecc68e;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:420px){.attribute-grid{gap:4px}.attribute-chip{font-size:10px;padding:7px 1px}.attribute-chip b{font-size:10px}}

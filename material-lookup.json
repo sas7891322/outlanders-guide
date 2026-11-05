@@ -1,0 +1,740 @@
+{
+  "updated": "2026-11-05",
+  "source": "https://guide.ludens.com.tw/mh-outlanders/materials/",
+  "sourceLabel": "Ludens 資料庫（2026-10-29 整理）",
+  "materials": [
+    {
+      "monster": "大凶豺龍",
+      "name": "大凶豺龍的鱗",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "大凶豺龍",
+      "name": "大凶豺龍的爪",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "前腿",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "大凶豺龍",
+      "name": "大凶豺龍的皮",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "大凶豺龍",
+      "name": "大凶豺龍的鬃毛",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "搔鳥",
+      "name": "搔鳥的鱗",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "搔鳥",
+      "name": "搔鳥的喙",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "搔鳥",
+      "name": "搔鳥的皮",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "搔鳥",
+      "name": "搔鳥的飾羽",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "前爪（Ⅰ～Ⅳ）／前腿（Ⅴ～Ⅵ）",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "毒妖鳥",
+      "name": "毒妖鳥的鱗",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "毒妖鳥",
+      "name": "毒妖鳥的羽毛",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "翅膀",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "毒妖鳥",
+      "name": "毒妖鳥的甲殼",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "毒妖鳥",
+      "name": "毒妖鳥的尾巴",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "尾巴",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "毒妖鳥",
+      "name": "毒妖鳥的喉袋",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "火龍",
+      "name": "火龍的鱗",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "火龍",
+      "name": "火龍的翼膜",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "翅膀",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "火龍",
+      "name": "火龍的甲殼",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "火龍",
+      "name": "火龍的逆鱗",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "火龍",
+      "name": "火龍的尾巴",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "尾巴",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "角龍的甲殼",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "角龍的牙",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "角龍的背甲",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "角龍的尾甲",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "尾巴",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "角龍的骨髓",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "角龍",
+      "name": "彎曲的角",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "骨鎚龍",
+      "name": "骨鎚龍的鱗",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "骨鎚龍",
+      "name": "骨鎚龍的甲殼",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "骨鎚龍",
+      "name": "骨鎚龍的黑油殼",
+      "methods": [
+        "剝取",
+        "捕獲",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "骨鎚龍",
+      "name": "骨鎚龍的骨髓",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "骨鎚龍",
+      "name": "龍骨塊",
+      "methods": [
+        "捕獲",
+        "部位破壞"
+      ],
+      "part": "後腿",
+      "radiant": false,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種雌火龍",
+      "name": "融光種雌火龍的鱗",
+      "methods": [
+        "剝取",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種雌火龍",
+      "name": "融光種雌火龍的翼膜",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "翅膀",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種雌火龍",
+      "name": "融光種雌火龍的甲殼",
+      "methods": [
+        "剝取",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種雌火龍",
+      "name": "融光種雌火龍的棘",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "尾巴",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種雌火龍",
+      "name": "融光種雌火龍的逆鱗",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種大凶豺龍",
+      "name": "融光種大凶豺龍的鱗",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種大凶豺龍",
+      "name": "融光種大凶豺龍的爪",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "前腿",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種大凶豺龍",
+      "name": "融光種大凶豺龍的皮",
+      "methods": [
+        "剝取",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種大凶豺龍",
+      "name": "融光種大凶豺龍的鬃毛",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種毒妖鳥",
+      "name": "融光種毒妖鳥的鱗",
+      "methods": [
+        "剝取",
+        "任務報酬"
+      ],
+      "part": "",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種毒妖鳥",
+      "name": "融光種毒妖鳥的羽毛",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "翅膀",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種毒妖鳥",
+      "name": "融光種毒妖鳥的甲殼",
+      "methods": [
+        "剝取",
+        "任務報酬",
+        "部位破壞"
+      ],
+      "part": "身體",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種毒妖鳥",
+      "name": "融光種毒妖鳥的尾巴",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "尾巴",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    },
+    {
+      "monster": "融光種毒妖鳥",
+      "name": "融光種毒妖鳥的喉袋",
+      "methods": [
+        "部位破壞"
+      ],
+      "part": "頭部",
+      "radiant": true,
+      "source": "https://guide.ludens.com.tw/mh-outlanders/materials/"
+    }
+  ],
+  "starRanges": {
+    "大凶豺龍": [
+      [
+        1,
+        4,
+        "Ⅰ"
+      ],
+      [
+        5,
+        8,
+        "Ⅱ"
+      ],
+      [
+        9,
+        10,
+        "Ⅲ"
+      ],
+      [
+        11,
+        12,
+        "Ⅳ"
+      ],
+      [
+        13,
+        14,
+        "Ⅴ"
+      ],
+      [
+        15,
+        15,
+        "Ⅵ"
+      ]
+    ],
+    "搔鳥": [
+      [
+        1,
+        4,
+        "Ⅰ"
+      ],
+      [
+        5,
+        8,
+        "Ⅱ"
+      ],
+      [
+        9,
+        10,
+        "Ⅲ"
+      ],
+      [
+        11,
+        12,
+        "Ⅳ"
+      ],
+      [
+        13,
+        14,
+        "Ⅴ"
+      ],
+      [
+        15,
+        15,
+        "Ⅵ"
+      ]
+    ],
+    "毒妖鳥": [
+      [
+        1,
+        4,
+        "Ⅰ"
+      ],
+      [
+        5,
+        8,
+        "Ⅱ"
+      ],
+      [
+        9,
+        10,
+        "Ⅲ"
+      ],
+      [
+        11,
+        12,
+        "Ⅳ"
+      ],
+      [
+        13,
+        14,
+        "Ⅴ"
+      ],
+      [
+        15,
+        15,
+        "Ⅵ"
+      ]
+    ],
+    "火龍": [
+      [
+        8,
+        9,
+        "Ⅱ"
+      ],
+      [
+        10,
+        11,
+        "Ⅲ"
+      ],
+      [
+        12,
+        13,
+        "Ⅳ"
+      ],
+      [
+        14,
+        15,
+        "Ⅴ"
+      ]
+    ],
+    "角龍": [
+      [
+        9,
+        11,
+        "Ⅲ"
+      ],
+      [
+        12,
+        13,
+        "Ⅳ"
+      ],
+      [
+        14,
+        15,
+        "Ⅴ"
+      ]
+    ],
+    "骨鎚龍": [
+      [
+        9,
+        11,
+        "Ⅲ"
+      ],
+      [
+        12,
+        13,
+        "Ⅳ"
+      ],
+      [
+        14,
+        15,
+        "Ⅴ"
+      ]
+    ],
+    "融光種雌火龍": [
+      [
+        3,
+        6,
+        "Ⅰ"
+      ],
+      [
+        7,
+        9,
+        "Ⅱ"
+      ],
+      [
+        10,
+        11,
+        "Ⅲ"
+      ],
+      [
+        12,
+        13,
+        "Ⅳ"
+      ],
+      [
+        14,
+        15,
+        "Ⅴ"
+      ]
+    ],
+    "融光種大凶豺龍": [
+      [
+        4,
+        5,
+        "Ⅰ"
+      ],
+      [
+        6,
+        8,
+        "Ⅱ"
+      ],
+      [
+        9,
+        10,
+        "Ⅲ"
+      ],
+      [
+        11,
+        12,
+        "Ⅳ"
+      ],
+      [
+        13,
+        14,
+        "Ⅴ"
+      ],
+      [
+        15,
+        15,
+        "Ⅵ"
+      ]
+    ],
+    "融光種毒妖鳥": [
+      [
+        4,
+        5,
+        "Ⅰ"
+      ],
+      [
+        6,
+        8,
+        "Ⅱ"
+      ],
+      [
+        9,
+        10,
+        "Ⅲ"
+      ],
+      [
+        11,
+        12,
+        "Ⅳ"
+      ],
+      [
+        13,
+        14,
+        "Ⅴ"
+      ],
+      [
+        15,
+        15,
+        "Ⅵ"
+      ]
+    ]
+  },
+  "coverage": "目前僅收錄已核對的 9 種魔物、43 筆素材，不代表全遊戲素材已收錄。",
+  "accuracy": "第三方正式版攻略表交叉整理，仍待本站實機驗證；掉落機率未知。"
+}
