@@ -1,0 +1,139 @@
+{
+  "version": "2.4",
+  "updated": "2026-11-05",
+  "sources": [
+    "https://gamewith.ai/monster-hunter-outlanders/zh-hant/skills",
+    "https://gamewith.ai/monster-hunter-outlanders/zh-hant/armor/hornetaur/chest"
+  ],
+  "skillCaps": {
+    "看破": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "弱點特效": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "會心擊〖屬性〗": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "火屬性傷害提升": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "水屬性傷害提升": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "雷屬性傷害提升": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "冰屬性傷害提升": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "龍屬性傷害提升": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "體力強化": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "防護": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "防禦技巧": {
+      "maxLv": 5,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "寓攻於守": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "破壞王": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "蓄力強化": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "練氣纏刃": {
+      "maxLv": 4,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "鬼人修羅": {
+      "maxLv": 4,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "蓄勢強射": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "裝填強化": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "震懾": {
+      "maxLv": 4,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "貫突": {
+      "maxLv": 4,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "弩彈強化": {
+      "maxLv": 4,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "高壓防禦": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "拔刀一閃": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "氣力轉化": {
+      "maxLv": 7,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "毒耐性": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "昏厥耐性": {
+      "maxLv": 3,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "鬥志": {
+      "maxLv": 5,
+      "verification": "第三方攻略，待遊戲內實測"
+    },
+    "庇佑": {
+      "maxLv": 5,
+      "verification": "第三方攻略，待遊戲內實測"
+    }
+  },
+  "setRules": {
+    "巨甲之力": {
+      "pieces": 2,
+      "skill": "龍耐性強化",
+      "level": 1,
+      "source": "https://gamewith.ai/monster-hunter-outlanders/zh-hant/armor/hornetaur/chest",
+      "verification": "第三方防具個別頁面"
+    },
+    "大凶豺龍的抵抗": {
+      "pieces": 2,
+      "skill": "昏厥耐性",
+      "level": 1,
+      "source": "https://gamewith.ai/monster-hunter-outlanders/zh-hant/skills",
+      "verification": "第三方技能表"
+    }
+  },
+  "note": "技能上限來自第三方繁中表，需以正式版遊戲內技能說明為準；只有確認件數與名稱的套裝才顯示啟動。"
+}

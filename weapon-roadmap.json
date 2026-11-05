@@ -1,0 +1,94 @@
+{
+  "updated": "2026-11-05",
+  "source": "https://gamewith.ai/monster-hunter-outlanders/zh-hant/articles/weapon-crafting-guide",
+  "earlySource": "https://gamewith.ai/monster-hunter-outlanders/zh-hant/articles/early-game-gear",
+  "status": "第三方正式版攻略建議，非官方唯一畢業配置；會因版本、角色與魔物弱點改變。",
+  "gates": [
+    {
+      "rank": 16,
+      "rarity": 3
+    },
+    {
+      "rank": 18,
+      "rarity": 4
+    },
+    {
+      "rank": 21,
+      "rarity": 5
+    },
+    {
+      "rank": 26,
+      "rarity": 6
+    },
+    {
+      "rank": 31,
+      "rarity": 7
+    },
+    {
+      "rank": 34,
+      "rarity": 8
+    },
+    {
+      "rank": 41,
+      "rarity": 9
+    },
+    {
+      "rank": 44,
+      "rarity": 10
+    },
+    {
+      "rank": 47,
+      "rarity": 11
+    }
+  ],
+  "weapons": [
+    {
+      "type": "大劍",
+      "early": "冒險團赤翎型大劍・火Ⅰ",
+      "goal": "黑鋼大劍Ⅱ",
+      "note": "偏蓄力與大傷害，配裝注意蓄力時的安全性"
+    },
+    {
+      "type": "太刀",
+      "early": "骨製彎刀Ⅰ",
+      "goal": "飛龍刀〖紅葉〗Ⅱ",
+      "note": "留意練氣與反擊操作，避免只按攻擊力選武器"
+    },
+    {
+      "type": "雙劍",
+      "early": "火焰戰斧Ⅰ",
+      "goal": "融光・泥岩利劍Ⅱ",
+      "note": "持續輸出與耐力管理很重要"
+    },
+    {
+      "type": "長槍",
+      "early": "鐵槍Ⅰ",
+      "goal": "黑鋼槍Ⅱ",
+      "note": "重視防禦、反擊與定位技能"
+    },
+    {
+      "type": "大錘",
+      "early": "土砂龍鏈枷Ⅰ",
+      "goal": "冒險團赤翎型大錘・冰Ⅲ",
+      "note": "留意頭部打擊、昏厥與蓄力窗口"
+    },
+    {
+      "type": "充能斧",
+      "early": "凶顎龍兵裝Ⅰ",
+      "goal": "融光・飛雷龍之腕Ⅲ",
+      "note": "重視瓶資源與爆發時機"
+    },
+    {
+      "type": "重弩槍",
+      "early": "骨製發射器Ⅰ",
+      "goal": "融光・曼陀羅爆破炮Ⅲ",
+      "note": "重視彈種與裝填、輸出安全"
+    },
+    {
+      "type": "弓",
+      "early": "火焰弓Ⅰ",
+      "goal": "融光・飛雷弓射手大蛇Ⅲ",
+      "note": "重視蓄力、距離及耐力"
+    }
+  ]
+}

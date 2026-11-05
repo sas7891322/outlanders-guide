@@ -1,11 +1,13 @@
-# 旅人狩獵手冊 v2.0
+# 旅人狩獵手冊 v2.6｜跨圖鑑整合與品質檢查
 
-延續 v1.9 的完整功能和深色版型。本版加入「裝備製作 → 素材缺口 → 魔物／取得方式／星級」的反查流程。
+新增全站搜尋，可跨冒險者、隨從、隊伍、魔物、素材、防具、技能、裝備配方及攻略文章尋找已收錄資料。搜尋結果連回各個資料庫，再由各資料庫使用精細篩選。
 
-- 裝備製作頁：`#crafting`，桌機導覽及「素材反查／裝備魔物」入口皆可進入。
-- 7 筆第三方參考武器製作／升級階段，並非全武器資料。沒有核實的配方、銀幣與掉落機率不猜測。
-- 可一次選取多項目，合計相同素材並輸入持有數量，資料保存在 `localStorage`，可匯出 JSON。
-- 注意：不同強化階段是否需要前一階段及相關費用，請以遊戲工坊實際顯示為準。
+保留 v2.5 的本機資料鍵值、配裝器、素材工具、每日清單以及既有深色視覺。搜尋僅索引已收錄內容，並非完整官方資料或全遊戲數據。
 
-部署：將完整 ZIP 解壓後全部檔案上傳 GitHub 儲存庫根目錄；Vercel 若已串接 main，提交後會觸發部署。
-來源：GameWith (2026-10-30) https://gamewith.ai/monster-hunter-outlanders/zh-hant/articles/weapon-crafting-guide；Ludens (2026-10-29) https://www.ludens.com.tw/monster-hunter-outlanders-monster-materials/
+## 部署
+
+完整 ZIP 解壓縮後將內容放在 GitHub 專案根目錄；若網站已經是 v2.5，可使用更新專用 ZIP。若 Vercel 已連接 main 分支，GitHub 提交後檢查部署結果。
+
+## 品質檢查
+
+參見 QA-REPORT.md。尚未在使用者的 iPhone 上進行 Safari 真機測試，也沒有直接寫入 GitHub 或 Vercel。
