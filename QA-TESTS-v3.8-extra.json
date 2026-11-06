@@ -1,0 +1,20 @@
+{
+  "monsters": 36,
+  "failed_monster_images": [],
+  "planner_materials_after_add": 2,
+  "planner_goals_after_add": 2,
+  "planner_materials_after_navigation": 2,
+  "planner_goals_after_navigation": 2,
+  "armor_list": 24,
+  "armor_suggestions": 0,
+  "armor_equipped": [
+    "合金頭盔",
+    "尚未選擇",
+    "尚未選擇",
+    "尚未選擇",
+    "尚未選擇"
+  ],
+  "search_hits": 12,
+  "materials": 43,
+  "exceptions": []
+}

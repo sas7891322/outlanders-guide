@@ -1,0 +1,112 @@
+{
+  "skills_available": 28,
+  "candidates": 5,
+  "candidate_scores": [
+    "內部排序分數 61",
+    "內部排序分數 58",
+    "內部排序分數 51",
+    "內部排序分數 48",
+    "內部排序分數 42"
+  ],
+  "selected_slots": [
+    "巨甲蟲頭盔",
+    "巨甲蟲鎧甲",
+    "融光・凶豺龍腕甲",
+    "蠻顎龍腰甲",
+    "蠻顎龍護腿"
+  ],
+  "saved_armor_slots": "{\"頭部\":\"a016\",\"胸部\":\"a017\",\"腕部\":\"a023\",\"腰部\":\"a009\",\"腿部\":\"a010\"}",
+  "restored_armor_slots": [
+    "巨甲蟲頭盔",
+    "巨甲蟲鎧甲",
+    "融光・凶豺龍腕甲",
+    "蠻顎龍腰甲",
+    "蠻顎龍護腿"
+  ],
+  "planner_before": {
+    "materials": [
+      {
+        "id": "sample-1",
+        "name": "示範：突破素材",
+        "need": 6,
+        "have": 2
+      },
+      {
+        "id": "1793937994903-66271",
+        "name": "毒妖鳥素材",
+        "need": 12,
+        "have": 4
+      }
+    ],
+    "targets": [
+      {
+        "id": "sample-2",
+        "name": "將主力信物提升到下一階段",
+        "priority": "high",
+        "done": false
+      },
+      {
+        "id": "1793937995850-32790",
+        "name": "培養主力",
+        "priority": "medium",
+        "done": true
+      }
+    ],
+    "team": [
+      "damage",
+      "",
+      "",
+      ""
+    ],
+    "main": "",
+    "style": "balanced"
+  },
+  "export_name": "outlanders-my-plan.json",
+  "exported_matching": true,
+  "import_status": "已匯入規劃。",
+  "file_input_reset": true,
+  "same_file_reimport_count": 2,
+  "planner_after": {
+    "materials": [
+      {
+        "id": "m0",
+        "name": "示範：突破素材",
+        "need": 6,
+        "have": 2
+      },
+      {
+        "id": "m1",
+        "name": "毒妖鳥素材",
+        "need": 12,
+        "have": 4
+      }
+    ],
+    "targets": [
+      {
+        "id": "t0",
+        "name": "將主力信物提升到下一階段",
+        "priority": "high",
+        "done": false
+      },
+      {
+        "id": "t1",
+        "name": "培養主力",
+        "priority": "medium",
+        "done": true
+      }
+    ],
+    "team": [
+      "damage",
+      "",
+      "",
+      ""
+    ],
+    "main": "",
+    "style": "balanced"
+  },
+  "roundtrip_content_match": true,
+  "reopened_materials": 2,
+  "reopened_goals": 2,
+  "invalid_status": "匯入失敗：檔案格式不符合本站規劃格式",
+  "exceptions": []
+}

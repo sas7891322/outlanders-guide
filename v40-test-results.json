@@ -1,0 +1,70 @@
+{
+  "v40_private": {
+    "home": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 1373
+    },
+    "fieldPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 4344,
+      "icons": 36
+    },
+    "materialLookupPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 5178
+    },
+    "searchHubPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 191
+    },
+    "armorPiecesPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 2726
+    },
+    "plannerPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 791
+    },
+    "errors": []
+  },
+  "v40_public": {
+    "home": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 1388
+    },
+    "fieldPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 4400,
+      "icons": 36
+    },
+    "materialLookupPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 5286
+    },
+    "searchHubPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 191
+    },
+    "armorPiecesPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 2726
+    },
+    "plannerPage": {
+      "overflow": false,
+      "title": "旅人狩獵手冊 | 魔物獵人：旅人攻略",
+      "text_len": 791
+    },
+    "errors": []
+  }
+}
