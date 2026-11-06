@@ -2,7 +2,7 @@
 
 這是一個靜態 HTML/CSS/JavaScript 站。
 
-版本：private
+版本：public
 
 ## 部署
 將本資料夾檔案放進 GitHub 儲存庫根目錄，Vercel 使用 Framework: Other、無 Build Command。

@@ -1,13 +1,8 @@
-/* v3.2: images supplied by site owner; individual source/usage permissions still require verification. */
+/* v4.0 public edition: licensed game icons deliberately excluded. */
 'use strict';
-const monsterTotemPaths = {"大凶豺龍": "assets/images/monsters/great-jagras.webp", "搔鳥": "assets/images/monsters/kulu-ya-ku.webp", "毒妖鳥": "assets/images/monsters/pukei-pukei.webp", "大凶顎龍": "assets/images/monsters/great-girros.webp", "泥魚龍": "assets/images/monsters/jyuratodus.webp", "土砂龍": "assets/images/monsters/barroth.webp", "蠻顎龍": "assets/images/monsters/anjanath.webp", "飛雷龍": "assets/images/monsters/tobi-kadachi.webp", "雌火龍": "assets/images/monsters/rathian.webp", "火龍": "assets/images/monsters/rathalos.webp", "角龍": "assets/images/monsters/diablos.webp", "骨鎚龍": "assets/images/monsters/radobaan.webp", "慘爪龍": "assets/images/monsters/odogaron.webp", "眩鳥": "assets/images/monsters/tzitzi-ya-ku.webp", "浮空龍": "assets/images/monsters/paolumu.webp", "風漂龍": "assets/images/monsters/legiana.webp", "櫻火龍": "assets/images/monsters/pink-rathian.webp", "鋼龍": "assets/images/monsters/kushala-daora.webp", "黑角龍": "assets/images/monsters/black-diablos.webp", "融光種雌火龍": "assets/images/monsters/radiant-rathian.webp", "融光種大凶豺龍": "assets/images/monsters/radiant-great-jagras.webp", "融光種毒妖鳥": "assets/images/monsters/radiant-pukei-pukei.webp", "融光種蠻顎龍": "assets/images/monsters/radiant-anjanath.webp", "融光種搔鳥": "assets/images/monsters/radiant-kulu-ya-ku.webp", "融光種土砂龍": "assets/images/monsters/radiant-barroth.webp", "融光種泥魚龍": "assets/images/monsters/radiant-jyuratodus.webp", "融光種大凶顎龍": "assets/images/monsters/radiant-great-girros.webp", "融光種飛雷龍": "assets/images/monsters/radiant-tobi-kadachi.webp", "融光種浮空龍": "assets/images/monsters/radiant-paolumu.webp", "融光種眩鳥": "assets/images/monsters/radiant-tzitzi-ya-ku.webp", "融光種慘爪龍": "assets/images/monsters/radiant-odogaron.webp", "融光種火龍": "assets/images/monsters/radiant-rathalos.webp", "融光種風漂龍": "assets/images/monsters/radiant-legiana.webp", "融光種骨鎚龍": "assets/images/monsters/radiant-radobaan.webp", "融光種櫻火龍": "assets/images/monsters/radiant-pink-rathian.webp", "融光種黑角龍": "assets/images/monsters/radiant-black-diablos.webp"};
+const monsterTotemPaths = {};
 function monsterTotem(name, size='normal') {
-  const path=monsterTotemPaths[name];
   const variant=String(name).startsWith('融光種')?'radiant':'standard';
-  if (!path) return '<span class="monster-totem monster-totem-unavailable" role="img" aria-label="魔物圖騰未收錄"><span class="totem-missing">未收錄</span></span>';
-  const safeName=escapeHtml(name);
-  return `<span class="monster-totem ${size==='small'?'monster-totem-small':''} ${variant}" title="${safeName}・圖騰圖示">
-    <img src="${path}" alt="${safeName} 魔物圖騰" width="144" height="144" loading="lazy" decoding="async" onload="this.parentElement.classList.add('has-art')" onerror="this.parentElement.classList.add('image-failed');this.remove()" />
-    <span class="totem-missing" aria-hidden="true">暫無圖示</span>
-  </span>`;
+  const small=size==='small'?' monster-totem-small':'';
+  return `<span class="monster-totem monster-totem-unavailable${small} ${variant}" role="img" aria-label="${escapeHtml(name)}：遊戲圖騰尚未公開授權"><span class="totem-missing" aria-hidden="true">圖示待授權</span></span>`;
 }
