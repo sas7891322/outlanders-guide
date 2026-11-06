@@ -1,0 +1,28 @@
+/* v3.6 | responsive icon treatment; preserve source resolution at 144px */
+:root{--totem-outline:rgba(192,213,194,.25)}
+.monster-totem{width:96px;height:96px;flex:0 0 96px;max-width:100%;margin:0;border-radius:16px;border-color:var(--totem-outline);background:radial-gradient(circle at 50% 35%,#304239 0,#192524 67%,#10191b 100%);isolation:isolate}
+.monster-totem:before{width:76%;height:76%;border-color:rgba(201,213,184,.16)}
+.monster-totem.radiant{border-color:rgba(218,155,206,.43);background:radial-gradient(circle at 50% 38%,#463345,#231f2e 67%,#141920 100%)}
+.monster-totem img{box-sizing:border-box;width:100%;height:100%;padding:8px;display:block;object-fit:contain;object-position:center;image-rendering:auto;filter:drop-shadow(0 3px 3px rgba(0,0,0,.28));transition:transform .18s ease}
+.field-card:hover .monster-totem img{transform:scale(1.035)}
+.monster-totem-small{width:48px;height:48px;flex:0 0 48px;border-radius:11px}
+.monster-totem-small img{padding:3px}
+.monster-totem .totem-missing{font-size:10px;line-height:1.3;letter-spacing:0;padding:5px;color:#d4dbcf}
+.monster-totem-small .totem-missing{font-size:8px}
+.monster-totem.image-failed{border-style:dashed;border-color:#aa725f}
+.monster-totem.image-failed .totem-missing{color:#edc9ad}
+.totem-title{display:flex;align-items:center;gap:15px;min-width:0;margin:10px 0 14px}
+.totem-title h3{min-width:0;overflow-wrap:anywhere;font-size:clamp(15px,1.6vw,19px);line-height:1.4}
+.ml-monster-with-icon,.ml-monster,.hub-result{min-width:0}
+.hub-result .monster-totem{align-self:center}
+@media(max-width:650px){
+ .monster-totem{width:76px;height:76px;flex-basis:76px;border-radius:13px}
+ .monster-totem img{padding:6px}
+ .monster-totem-small{width:42px;height:42px;flex-basis:42px;border-radius:10px}
+ .monster-totem-small img{padding:3px}
+ .totem-title{gap:11px;align-items:center}
+ .totem-title h3{font-size:16px}
+ .field-card{min-width:0}
+}
+@media(max-width:360px){.monster-totem{width:64px;height:64px;flex-basis:64px}.monster-totem-small{width:38px;height:38px;flex-basis:38px}.totem-title{gap:9px}}
+@media(prefers-reduced-motion:reduce){.monster-totem img{transition:none}}

@@ -4,10 +4,10 @@ const monsterTotemPaths = {"大凶豺龍": "assets/images/monsters/great-jagras.
 function monsterTotem(name, size='normal') {
   const path=monsterTotemPaths[name];
   const variant=String(name).startsWith('融光種')?'radiant':'standard';
-  if (!path) return '<span class="totem-missing" aria-label="魔物圖騰待補">圖騰待補</span>';
+  if (!path) return '<span class="monster-totem monster-totem-unavailable" role="img" aria-label="魔物圖騰未收錄"><span class="totem-missing">未收錄</span></span>';
   const safeName=escapeHtml(name);
   return `<span class="monster-totem ${size==='small'?'monster-totem-small':''} ${variant}" title="${safeName}・圖騰圖示">
-    <img src="${path}" alt="${safeName} 魔物圖騰" loading="lazy" decoding="async" onload="this.parentElement.classList.add('has-art')" onerror="this.remove()" />
-    <span class="totem-missing" aria-hidden="true">原圖<br>待補</span>
+    <img src="${path}" alt="${safeName} 魔物圖騰" width="144" height="144" loading="lazy" decoding="async" onload="this.parentElement.classList.add('has-art')" onerror="this.parentElement.classList.add('image-failed');this.remove()" />
+    <span class="totem-missing" aria-hidden="true">暫無圖示</span>
   </span>`;
 }
